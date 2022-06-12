@@ -39,7 +39,8 @@ Report page   - All the CSS/XSS attcaks are detected on Login page
 
 ==================Vulnerabilities :
 
-CSS/XSS       - in login page - Payload  in USERNAME -              <script>alert(111)</script>
-SQLinjection  - in login page  - Payload in USERNAME and Password -             1' or '1' ='1
+Reflected CSS/XSS       - in login page - Payload  in USERNAME                            -             <script>alert(111)</script>
+SQLinjection            - in login page  - Payload in USERNAME and Password               -             1' or '1' ='1
+Stored/ persisted XSS   - If user logged in Using admin credetials  and checks feed back  -             alert willpop up
 
 
