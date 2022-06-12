@@ -37,7 +37,8 @@ register page - register a new user
 Report page   - All the CSS/XSS attcaks are detected on Login page
 
 
-==================Vulnerabilities :
+=======Vulnerabilities:
+========
 
 1. Reflected CSS/XSS       - in login page - Payload  in USERNAME                            -             <script>alert(111)</script>
 2. SQLinjection            - in login page  - Payload in USERNAME and Password               -             1' or '1' ='1
