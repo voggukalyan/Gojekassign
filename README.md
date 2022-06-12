@@ -1,8 +1,8 @@
 # Gojekassign
 
-=============================
+======
 Installation:
-=====================================================
+=======
 Downlaod the projects file zip and extract to a folder
 
 install xampp (a local server) with default settings
@@ -22,9 +22,9 @@ copy the downloaded source code folder  to htdocs folder in xampp installation f
 launch the web application with url  ->  http://localhost/Gojek/Src/index.html
 
 
-=============================================
+=======
 Application walkthrough:
-===========================================================
+========
 
 launch the web application with url  ->  http://localhost/Gojek/Src/index.html
 
