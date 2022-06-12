@@ -5,7 +5,7 @@ Installation:
 =======
 Downlaod the projects file zip and extract to a folder
 
-install xampp (a local server) with default settings
+install xampp (a local server) with default settings. Downlaod link for Xampp - https://www.apachefriends.org/
 
 after installation open 'XAMPP control panel'
 
